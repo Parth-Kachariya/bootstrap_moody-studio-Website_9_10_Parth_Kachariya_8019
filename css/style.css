@@ -10,3 +10,6 @@
     color: #A86A3D;
     max-width: 410px;
 }
+.w-fit {
+  width: fit-content;
+}
