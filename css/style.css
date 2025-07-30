@@ -1,15 +1,18 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.bg-broun{
-    background-color: #DBD0CC;
+.bg-broun {
+  background-color: #dbd0cc;
 }
-.text-broun{
-    color: #A86A3D;
-    max-width: 410px;
+.text-broun {
+  color: #a86a3d;
+  max-width: 410px;
 }
 .w-fit {
   width: fit-content;
+}
+.bg_white {
+  background-color: #ffffffa8;
 }
