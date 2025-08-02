@@ -16,3 +16,29 @@
 .bg_white {
   background-color: #ffffffa8;
 }
+.form-control:focus {
+  box-shadow: none;
+  border-color: #a86a3d;
+
+}
+.form-control::placeholder {
+  color: #a86a3d;
+}
+.btn-dark {
+  background-color: #a86a3d !important;
+  border-color: #a86a3d;
+  border: #a86a3d !important;
+}
+.border-dark{
+  border-color: #a86a3d !important;
+}
+input{
+ 
+  color: #a86a3d !important;
+}
+.bg-color{
+  background-color: #323334;
+}
+.text_home{
+  color: #a86a3d !important;
+}
