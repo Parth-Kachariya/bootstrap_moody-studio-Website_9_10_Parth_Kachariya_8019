@@ -42,3 +42,14 @@ input{
 .text_home{
   color: #a86a3d !important;
 }
+.color-box {
+      width: 15px;
+      height: 15px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+    }
+    .color-box:hover {
+      transform: scale(1.1);
+    }
